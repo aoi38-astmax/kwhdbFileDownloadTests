@@ -1,0 +1,2 @@
+# kwhdbFileDownloadTests
+電力量DBにおけるファイルダウンロードのテストRepository
